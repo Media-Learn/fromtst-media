@@ -1,2 +1,2 @@
-var name="elouahabi";
-alert(name);
+var name="anythink";
+print(name);
